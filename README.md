@@ -7,6 +7,7 @@
 - Car_maintenance.exe - 使用VS2015编译完成的作业程序
 - test_case_1.txt - 官方测试用例1
 - test_case_2.txt - 官方测试用例2
+- README.md - 作业说明文档
 
 ## 运行方法
 
