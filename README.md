@@ -15,6 +15,23 @@
 ```
 Car_maintenance.exe test_case_1.txt
 ```
+程序将向命令行以规定格式输出运行结果。如：
+```
+Reminder
+==================
+* Time-related maintenance coming soon...
+Audi: 1 (CAR0006)
+Porsche: 1 (CAR0002)
+
+* Distance-related maintenance coming soon...
+BYD: 1 (CAR0005)
+Ford: 1 (CAR0007)
+Porsche: 1 (CAR0001)
+
+* Write-off coming soon...
+BYD: 1 (CAR0004)
+Ford: 1 (CAR0009)
+```
 
 ## 源代码文件
 
