@@ -15,13 +15,13 @@
 Car_maintenance.exe test_case_1.txt
 ```
 
-##源代码文件
+## 源代码文件
 
-###Car类
+### Car类
 
 - 存储一辆车的基本信息：车牌号、购买日期、品牌、里程数、有无大修、保养状态。
 
-###Maintenance_Checker类
+### Maintenance_Checker类
 
 - 存储读取的若干车辆信息
 - 存储保养条件
